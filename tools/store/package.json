@@ -1,0 +1,11 @@
+{
+  "name": "cadiyasor-store-tools",
+  "private": true,
+  "description": "Store listing graphics and Play upload for Cadıya Sor",
+  "dependencies": {
+    "@fontsource/noto-sans-khmer": "^5.3.0",
+    "@fontsource/noto-sans-lao": "^5.3.0",
+    "@fontsource/noto-sans-sinhala": "^5.3.0",
+    "puppeteer-core": "^25.12.0"
+  }
+}

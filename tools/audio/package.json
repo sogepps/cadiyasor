@@ -1,0 +1,8 @@
+{
+  "name": "cadiyasor-audio",
+  "private": true,
+  "description": "Synthesises every sound of the app (no third-party audio).",
+  "dependencies": {
+    "@breezystack/lamejs": "^1.2.7"
+  }
+}

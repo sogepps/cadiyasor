@@ -1,0 +1,14 @@
+{
+  "title": "Pregunta a la Bruixa: Oracle",
+  "short": "Fes una pregunta, frega la caldera i deixa que la bruixa reveli el teu destí!",
+  "full": "Tens una pregunta al cap? Pregunta-ho a la bruixa! Pensa en la teva pregunta, frega la seva caldera bombollejant amb el dit i mira com puja un pergamí màgic amb la teva resposta. Un llibre de respostes, una bola de cristall i una bruixa endevina, tot a la teva butxaca.\n\n🔮 TRES MANERES DE PREGUNTAR\n• La Caldera: frega-la fins que la màgia vessi i un pergamí et porti la resposta.\n• El Grimori: agafa el llibre, pensa en la teva pregunta i deixa'l anar. S'obre per la teva pàgina.\n• La Bola de Cristall: sacseja el mòbil o fes girar la boira per obtenir un sí o un no ràpid.\n\n📜 200 RESPOSTES\nSàvies, divertides, misterioses i, de vegades, una mica descarades. Sí, no, espera, actua ara... cada resposta brilla amb el seu color.\n\n🌙 EL PRESAGI DEL DIA\nUn presagi nou cada dia amb el teu número de la sort, el teu color de la sort i la teva hora de la sort, a més de la fase real de la lluna d'aquesta nit i què significa per a tu. Torna cada dia i mantén viva la teva ratxa.\n\n✍️ PREGUNTA EN VEU ALTA O EN SILENCI\nEscriu la teva pregunta o simplement pensa-la. Fes la mateixa pregunta dos cops el mateix dia i la bruixa se'n recordarà. El destí no canvia d'opinió!\n\n📖 DIARI DEL DESTÍ\nCada lectura queda desada al teu diari. Marca les teves preferides amb una estrella i torna a veure què t'ha dit la bruixa.\n\n💌 COMPARTEIX EL TEU DESTÍ\nEnvia la teva resposta als amics com una targeta bonica i desafia'ls perquè també preguntin a la bruixa.\n\n🐈‍⬛ UN CAU BEN VIU\nUna nit a la claror de la lluna, estrelles que brillen, boira que es mou, un gat negre i una bruixa amb moltes coses a dir. Toca la pantalla, hi ha sorpreses.\n\n🌍 75 IDIOMES\nLa bruixa parla el teu idioma. Canvia'l quan vulguis a la configuració.\n\nNo cal registrar-se.\n\nNomés per entreteniment: la bruixa és sàvia, però la decisió és sempre teva.",
+  "feature": "Pregunta. Frega. Descobreix el destí.",
+  "shots": [
+    { "title": "PREGUNTA A LA BRUIXA", "sub": "Les teves preguntes, resoltes amb màgia" },
+    { "title": "FREGA LA CALDERA", "sub": "La teva resposta puja en un pergamí màgic" },
+    { "title": "LLIBRE DE RESPOSTES", "sub": "Agafa, pensa, deixa anar i llegeix la teva pàgina" },
+    { "title": "BOLA DE CRISTALL", "sub": "Sacseja el mòbil per un sí o un no ràpid" },
+    { "title": "EL PRESAGI DEL DIA", "sub": "Número, color de la sort, fase lunar real" },
+    { "title": "DIARI DEL DESTÍ", "sub": "Desa, marca amb estrella i comparteix respostes" }
+  ]
+}

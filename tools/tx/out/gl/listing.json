@@ -1,0 +1,14 @@
+{
+  "title": "Pregúntalle á Meiga: Oráculo",
+  "short": "Fai unha pregunta, frega o caldeiro e deixa que a meiga revele o teu destino!",
+  "full": "Tes unha pregunta na cabeza? Pregúntallo á meiga! Pensa na túa pregunta, frega co dedo o seu caldeiro fervente e mira como sobe un pergamiño máxico coa túa resposta. Un libro de respostas, unha bóla de cristal e unha meiga adiviña, todo no teu peto.\n\n🔮 TRES XEITOS DE PREGUNTAR\n• O Caldeiro: frégao ata que a maxia rebose e un pergamiño traia a túa resposta.\n• O Grimorio: suxeita o libro, pensa na túa pregunta e sóltao. Ábrese pola túa páxina.\n• A Bóla de Cristal: sacode o móbil ou fai xirar a brétema para un si ou un non rápido.\n\n📜 200 RESPOSTAS\nSabias, divertidas, misteriosas e, ás veces, un pouco descaradas. Si, non, espera, actúa xa... cada resposta brilla coa súa propia cor.\n\n🌙 O PRESAXIO DO DÍA\nUn novo presaxio cada día co teu número da sorte, a túa cor da sorte e a túa hora da sorte, ademais da fase real da lúa desta noite e o que significa para ti. Volve cada día e mantén viva a túa racha.\n\n✍️ PREGUNTA EN VOZ ALTA OU EN SILENCIO\nEscribe a túa pregunta ou simplemente pénsaa. Fai a mesma pregunta dúas veces o mesmo día e a meiga ha lembralo. O destino non cambia de opinión!\n\n📖 DIARIO DO DESTINO\nCada lectura gárdase no teu diario. Marca as túas favoritas cunha estrela e volve ver o que che dixo a meiga.\n\n💌 COMPARTE O TEU DESTINO\nManda a túa resposta aos amigos coma unha bonita tarxeta e retaos a que tamén lle pregunten á meiga.\n\n🐈‍⬛ UN CUBIL BEN VIVO\nUnha noite á luz da lúa, estrelas que brillan, brétema que se move, un gato negro e unha meiga con moito que contar. Toca a pantalla, hai sorpresas.\n\n🌍 75 IDIOMAS\nA meiga fala o teu idioma. Cámbiao cando queiras nos axustes.\n\nNon fai falta rexistrarse.\n\nSó para entretemento: a meiga é sabia, pero a decisión é sempre túa.",
+  "feature": "Pregunta. Frega. Descobre o destino.",
+  "shots": [
+    { "title": "PREGÚNTALLE Á MEIGA", "sub": "As túas preguntas, resoltas con maxia" },
+    { "title": "FREGA O CALDEIRO", "sub": "A túa resposta sobe nun pergamiño máxico" },
+    { "title": "LIBRO DE RESPOSTAS", "sub": "Suxeita, pensa, solta e le a túa páxina" },
+    { "title": "BÓLA DE CRISTAL", "sub": "Sacode o móbil para un si ou un non rápido" },
+    { "title": "O PRESAXIO DO DÍA", "sub": "Número, cor da sorte, fase lunar real" },
+    { "title": "DIARIO DO DESTINO", "sub": "Garda, marca con estrela e comparte respostas" }
+  ]
+}

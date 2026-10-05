@@ -1,0 +1,2 @@
+- content + ui + listing done — e.g. "Good things come to those who wait" → "Aki vár, az győz" (a Hungarian saying, "who waits, wins"); "Take the plunge" → "Vágj bele fejest" (dive in headfirst, the natural local idiom). Hungarian has no grammatical gender at all, so the gender-neutral-phrasing concern that drove many rewrites in the Slavic locales didn't apply here — translations focus purely on natural, idiomatic, quotable Hungarian phrasing for the witch's playful tone.
+LOCALE COMPLETE

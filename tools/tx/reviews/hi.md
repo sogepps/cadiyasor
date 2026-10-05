@@ -1,0 +1,2 @@
+- content + ui + listing done — e.g. "Take the plunge" → "छलांग लगा दो" (the natural Hindi idiom "take a leap", not a literal plunge); "Swallow your pride" → "अपना गुरूर एक तरफ़ रखो" ("set your pride aside", the way a native speaker would actually say it rather than "निगलो अपना घमंड"). Used consistent gender-neutral phrasing throughout (imperative and "chahiye" constructions, which don't mark the user's gender in Hindi) and everyday conversational Hindi rather than Sanskritized forms; kept tea/chai and biryani-for-pizza localizations for the Indian market.
+LOCALE COMPLETE

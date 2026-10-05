@@ -1,0 +1,14 @@
+{
+  "title": "Chiedi alla Strega: Oracolo",
+  "short": "Fai una domanda, strofina il calderone e scopri il tuo destino!",
+  "full": "Hai una domanda in testa? Chiedi alla strega! Pensa alla tua domanda, strofina con il dito il suo calderone ribollente e guarda una pergamena magica salire con la tua risposta. Un libro delle risposte, una sfera di cristallo e una strega indovina, tutto in tasca.\n\n🔮 TRE MODI PER CHIEDERE\n• Il Calderone: strofinalo finché la magia trabocca e una pergamena porta la tua risposta.\n• Il Grimorio: tieni il libro, pensa alla tua domanda e lascialo. Si apre alla tua pagina.\n• La Sfera di Cristallo: scuoti il telefono o fai roteare la nebbia per un sì o un no veloce.\n\n📜 200 RISPOSTE\nSagge, buffe, misteriose e a volte un po' impertinenti. Sì, no, aspetta, agisci ora... ogni risposta brilla del suo colore.\n\n🌙 IL PRESAGIO DI OGGI\nUn nuovo presagio ogni giorno con il tuo numero fortunato, il tuo colore fortunato e la tua ora fortunata, più la vera fase della luna stanotte e cosa significa per te. Torna ogni giorno e mantieni viva la tua serie.\n\n✍️ CHIEDI AD ALTA VOCE O IN SILENZIO\nScrivi la tua domanda o pensala soltanto. Fai la stessa domanda due volte nello stesso giorno e la strega se lo ricorderà. Il destino non cambia idea!\n\n📖 DIARIO DEL DESTINO\nOgni lettura viene salvata nel tuo diario. Segna le tue preferite con una stella e torna a rileggere cosa ti ha detto la strega.\n\n💌 CONDIVIDI IL TUO DESTINO\nManda la tua risposta agli amici come una bella cartolina e sfidali a chiedere anche loro alla strega.\n\n🐈‍⬛ UNA TANA VIVA\nUna notte al chiaro di luna, stelle scintillanti, nebbia che scivola, un gatto nero e una strega che ha molto da dire. Tocca lo schermo, ci sono sorprese.\n\n🌍 75 LINGUE\nLa strega parla la tua lingua. Cambiala quando vuoi nelle impostazioni.\n\nNessuna registrazione richiesta.\n\nSolo per intrattenimento: la strega è saggia, ma la decisione è sempre tua.",
+  "feature": "Chiedi. Strofina. Scopri il destino.",
+  "shots": [
+    { "title": "CHIEDI ALLA STREGA", "sub": "Le tue domande, risolte con la magia" },
+    { "title": "STROFINA IL CALDERONE", "sub": "La tua risposta sale su una pergamena magica" },
+    { "title": "LIBRO DELLE RISPOSTE", "sub": "Tieni, pensa, lascia e leggi la tua pagina" },
+    { "title": "SFERA DI CRISTALLO", "sub": "Scuoti il telefono per un sì o un no veloce" },
+    { "title": "IL PRESAGIO DI OGGI", "sub": "Numero, colore fortunato, vera fase lunare" },
+    { "title": "DIARIO DEL DESTINO", "sub": "Salva, segna con una stella e condividi le risposte" }
+  ]
+}

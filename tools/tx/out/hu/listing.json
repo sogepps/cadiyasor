@@ -1,0 +1,14 @@
+{
+  "title": "Kérdezd a Boszorkányt: Jóslás",
+  "short": "Tegyél fel egy kérdést, dörzsöld meg az üstöt, és halld a sorsod!",
+  "full": "Van egy kérdésed? Kérdezd a boszorkányt! Gondolj a kérdésedre, dörzsöld meg az ujjaddal a fortyogó üstjét, és nézd, ahogy felemelkedik egy varázslatos tekercs a válasszal. Válaszok könyve, kristálygömb és egy jósló boszorkány - mindez a zsebedben.\n\n🔮 HÁROM MÓD A KÉRDEZÉSRE\n• Az üst: dörzsöld, amíg a varázslat ki nem csordul, és a tekercs meghozza a választ.\n• A Grimoár: fogd a könyvet, gondolj a kérdésedre, és engedd el. A te oldaladon nyílik ki.\n• A kristálygömb: rázd meg a telefonod, vagy kavard meg a ködöt egy gyors igenért vagy nemért.\n\n📜 200 VÁLASZ\nBölcsek, viccesek, titokzatosak, néha kicsit pimaszak. Igen, nem, várj, cselekedj most... minden válasz a saját színében ragyog.\n\n🌙 A MAI JÓSLAT\nMinden nap új jóslat: a szerencseszámod, a szerencseszíned és a szerencseórád, ráadásul a mai este valódi holdfázisa és annak jelentése számodra. Térj vissza minden nap, és tartsd meg a sorozatodat.\n\n✍️ KÉRDEZZ HANGOSAN VAGY CSENDBEN\nÍrd be a kérdésed, vagy csak gondolj rá. Ha ugyanazt a kérdést kétszer teszed fel egy napon, a boszorkány emlékezni fog. A sors nem gondolja meg magát!\n\n📖 SORSNAPLÓ\nMinden jóslat bekerül a naplódba. Csillagozd meg a kedvenceidet, és térj vissza ahhoz, amit a boszorkány mondott.\n\n💌 OSZD MEG A SORSODAT\nKüldd el a válaszodat barátaidnak egy szép kártya formájában, és hívd ki őket is, hogy kérdezzék meg a boszorkányt.\n\n🐈‍⬛ ÉLETRE KELT ODÚ\nHoldfényes éjszaka, csillogó csillagok, gomolygó köd, egy fekete macska és egy boszorkány, akinek van mit mondania. Érints meg mindent magad körül, meglepetések várnak.\n\n🌍 75 NYELV\nA boszorkány a te nyelveden beszél. Bármikor módosíthatod a beállításokban.\n\nRegisztráció nem szükséges.\n\nCsak szórakoztatási célra: a boszorkány bölcs, de a döntés mindig a tiéd.",
+  "feature": "Kérdezz. Dörzsölj. Éld a sorsod.",
+  "shots": [
+    { "title": "KÉRDEZD A BOSZORKÁNYT", "sub": "A kérdéseid, varázslatos válaszok" },
+    { "title": "DÖRZSÖLD MEG AZ ÜSTÖT", "sub": "A válasz egy varázstekercsen emelkedik fel" },
+    { "title": "VÁLASZOK KÖNYVE", "sub": "Tartsd, gondolj rá, engedd el, olvasd" },
+    { "title": "KRISTÁLYGÖMB", "sub": "Rázd meg a telefonod gyors igenért vagy nemért" },
+    { "title": "A MAI JÓSLAT", "sub": "Szerencseszám, szín, óra és a hold fázisa" },
+    { "title": "SORSNAPLÓ", "sub": "Mentsd, csillagozd és oszd meg jóslataid" }
+  ]
+}

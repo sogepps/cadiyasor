@@ -1,0 +1,2 @@
+- content + ui + listing done — e.g. "Take the plunge" → "हाम फाल" (the natural Nepali idiom "jump into the pool/river", used for taking a bold leap); localized "Should I order pizza tonight?" → "आज राति मःमः मगाउने हो?" (momo, Nepal's iconic takeaway dumpling, in place of pizza). Nepali verbs don't mark grammatical gender at all, so no special workarounds were needed to keep the user's gender unspecified — used the everyday informal "तिमी" register throughout.
+LOCALE COMPLETE

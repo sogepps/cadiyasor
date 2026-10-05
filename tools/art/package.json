@@ -1,0 +1,8 @@
+{
+  "name": "cadiyasor-art",
+  "private": true,
+  "description": "Renders the hand-written SVG art in src/ to PNG with the installed Chrome.",
+  "dependencies": {
+    "puppeteer-core": "^24.43.1"
+  }
+}

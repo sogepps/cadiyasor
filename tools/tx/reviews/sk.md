@@ -1,0 +1,2 @@
+- content + ui + listing done — e.g. "Think twice, act once" → "Dvakrát meraj, raz strihaj" (the Slovak proverb "measure twice, cut once"); "Take the plunge" → "Skoč po hlave" (dive in headfirst, the natural local idiom). Gendered participle/adjective forms (e.g. "pripravený/á", "istý/á") were rephrased with imperatives, future tense, or noun-based phrasing, and terms of endearment used the neutral noun "zlatko" instead of gendered "drahý/drahá" so the witch's lines stay gender-neutral for the user.
+LOCALE COMPLETE

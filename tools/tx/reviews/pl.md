@@ -1,0 +1,2 @@
+- content + ui + listing done — e.g. "Take the plunge" → "Rzuć się na głęboką wodę" (dive into deep water, the Polish idiom for taking a leap); "Swallow your pride" → "Schowaj dumę do kieszeni" (put your pride in your pocket, the local equivalent). Gendered past-tense/adjective forms (e.g. "gotowy/gotowa", "pewien/pewna") were rephrased throughout using imperative, present/future tense or noun-based constructions to keep the witch's lines gender-neutral for the user.
+LOCALE COMPLETE

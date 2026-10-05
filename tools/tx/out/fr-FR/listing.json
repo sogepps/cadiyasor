@@ -1,0 +1,14 @@
+{
+  "title": "Demande à la Sorcière : Oracle",
+  "short": "Pose ta question, frotte le chaudron et laisse la sorcière révéler ton destin !",
+  "full": "Une question en tête ? Demande à la sorcière ! Pense à ta question, frotte son chaudron fumant du doigt et regarde un parchemin magique s'élever avec ta réponse. Un livre des réponses, une boule de cristal et une sorcière diseuse de bonne aventure, le tout dans ta poche.\n\n🔮 TROIS FAÇONS DE DEMANDER\n• Le Chaudron : frotte-le jusqu'à ce que la magie déborde et qu'un parchemin t'apporte ta réponse.\n• Le Grimoire : tiens le livre, pense à ta question et lâche-le. Il s'ouvre à ta page.\n• La Boule de Cristal : secoue ton téléphone ou fais tourner la brume pour un oui ou un non rapide.\n\n📜 200 RÉPONSES\nSages, drôles, mystérieuses et parfois espiègles. Oui, non, attends, agis maintenant... chaque réponse brille dans sa propre couleur.\n\n🌙 LE PRÉSAGE DU JOUR\nUn nouveau présage chaque jour avec ton chiffre porte-bonheur, ta couleur porte-bonheur et ton heure porte-bonheur, plus la vraie phase de la lune ce soir et ce qu'elle signifie pour toi. Reviens chaque jour et garde ta série en cours.\n\n✍️ DEMANDE À VOIX HAUTE OU EN SILENCE\nÉcris ta question ou pense-la simplement. Pose la même question deux fois le même jour et la sorcière s'en souviendra. Le destin ne change pas d'avis !\n\n📖 JOURNAL DU DESTIN\nChaque lecture est enregistrée dans ton journal. Mets tes favorites en étoile et reviens voir ce que la sorcière t'a dit.\n\n💌 PARTAGE TON DESTIN\nEnvoie ta réponse à tes amis sous forme d'une jolie carte et mets-les au défi d'interroger la sorcière eux aussi.\n\n🐈‍⬛ UN REPAIRE BIEN VIVANT\nUne nuit éclairée par la lune, des étoiles scintillantes, une brume qui glisse, un chat noir et une sorcière qui a beaucoup à dire. Touche l'écran, il y a des surprises.\n\n🌍 75 LANGUES\nLa sorcière parle ta langue. Change-la à tout moment dans les paramètres.\n\nAucune inscription nécessaire.\n\nUniquement pour le divertissement : la sorcière est sage, mais la décision t'appartient toujours.",
+  "feature": "Demande. Frotte. Découvre ton destin.",
+  "shots": [
+    { "title": "DEMANDE À LA SORCIÈRE", "sub": "Tes questions, résolues par magie" },
+    { "title": "FROTTE LE CHAUDRON", "sub": "Ta réponse apparaît sur un parchemin magique" },
+    { "title": "LIVRE DES RÉPONSES", "sub": "Tiens, pense, lâche et lis ta page" },
+    { "title": "BOULE DE CRISTAL", "sub": "Secoue ton téléphone pour un oui ou un non" },
+    { "title": "PRÉSAGE DU JOUR", "sub": "Numéro, couleur porte-bonheur, vraie phase lunaire" },
+    { "title": "JOURNAL DU DESTIN", "sub": "Enregistre, marque et partage tes réponses" }
+  ]
+}

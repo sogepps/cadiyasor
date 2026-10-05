@@ -1,0 +1,2 @@
+- content + ui + listing done — e.g. "Should I order pizza tonight?" → "오늘 밤 치킨을 시켜야 할까요?" (localized to Korea's iconic late-night fried-chicken delivery instead of pizza), "Swallow your pride" → "자존심은 잠시 내려놓으세요". UI uses the warm 해요체 register throughout (avoiding stiff 합쇼체), with the witch given a bit more playful punch in her own lines, and moon phases use the traditional Korean terms (초승달, 상현달, 보름달, 그믐달) rather than literal translations.
+LOCALE COMPLETE

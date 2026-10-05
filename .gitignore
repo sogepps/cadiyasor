@@ -39,3 +39,14 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# engine test build
+.engine-build/
+
+# store tooling output (tmp holds a Chrome profile with live sign-in cookies)
+tools/store/raw/
+tools/store/tmp/
+tools/store/node_modules/
+tools/store/shots.apk
+tools/qa/out/
+*.log

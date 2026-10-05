@@ -1,0 +1,14 @@
+{
+  "title": "Zapytaj Wiedźmę: Wyrocznia",
+  "short": "Zadaj pytanie, potrzyj kocioł i poznaj swój los z ust wiedźmy!",
+  "full": "Masz pytanie? Zapytaj Wiedźmę! Pomyśl o swoim pytaniu, potrzyj palcem jej bulgoczący kocioł i patrz, jak unosi się magiczny zwój z odpowiedzią. Księga odpowiedzi, kryształowa kula i wróżąca wiedźma - wszystko w twojej kieszeni.\n\n🔮 TRZY SPOSOBY, BY ZAPYTAĆ\n• Kocioł: pocieraj, aż magia się przeleje, a zwój przyniesie odpowiedź.\n• Grimuar: przytrzymaj księgę, pomyśl o pytaniu i puść. Otworzy się na twojej stronie.\n• Kryształowa Kula: potrząśnij telefonem albo zakręć mgłą, by szybko poznać tak lub nie.\n\n📜 200 ODPOWIEDZI\nMądrych, zabawnych, tajemniczych, a czasem przekornych. Tak, nie, poczekaj, działaj już... każda odpowiedź świeci własnym kolorem.\n\n🌙 DZISIEJSZA WRÓŻBA\nKażdego dnia nowa wróżba: twoja szczęśliwa liczba, szczęśliwy kolor i szczęśliwa godzina, a do tego prawdziwa faza dzisiejszego księżyca i jej znaczenie dla ciebie. Wracaj codziennie i podtrzymuj swoją passę.\n\n✍️ PYTAJ NA GŁOS LUB W CISZY\nWpisz swoje pytanie albo po prostu o nim pomyśl. Zapytaj o to samo dwa razy tego samego dnia, a wiedźma to zapamięta. Los nie zmienia zdania!\n\n📖 KRONIKA LOSU\nKażda wróżba trafia do twojej kroniki. Oznacz ulubione gwiazdką i wracaj do tego, co powiedziała ci wiedźma.\n\n💌 PODZIEL SIĘ SWOIM LOSEM\nWyślij odpowiedź znajomym jako piękną kartę i rzuć im wyzwanie, by też zapytali wiedźmę.\n\n🐈‍⬛ ŻYWA KRYJÓWKA\nKsiężycowa noc, migoczące gwiazdy, snująca się mgła, czarny kot i wiedźma, która ma wiele do powiedzenia. Dotykaj ekranu, czekają cię niespodzianki.\n\n🌍 75 JĘZYKÓW\nWiedźma mówi w twoim języku. Zmień go w każdej chwili w ustawieniach.\n\nBez rejestracji.\n\nWyłącznie dla rozrywki: wiedźma jest mądra, ale decyzja zawsze należy do ciebie.",
+  "feature": "Zapytaj. Potrzyj. Poznaj los.",
+  "shots": [
+    { "title": "ZAPYTAJ WIEDŹMĘ", "sub": "Twoje pytania, magiczne odpowiedzi" },
+    { "title": "POTRZYJ KOCIOŁ", "sub": "Odpowiedź wznosi się na magicznym zwoju" },
+    { "title": "KSIĘGA ODPOWIEDZI", "sub": "Przytrzymaj, pomyśl, puść i przeczytaj" },
+    { "title": "KRYSZTAŁOWA KULA", "sub": "Potrząśnij telefonem po szybkie tak lub nie" },
+    { "title": "WRÓŻBA DNIA", "sub": "Szczęśliwa liczba, kolor, godzina i faza księżyca" },
+    { "title": "KRONIKA LOSU", "sub": "Zapisuj, oznaczaj gwiazdką i udostępniaj wróżby" }
+  ]
+}

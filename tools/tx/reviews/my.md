@@ -1,0 +1,2 @@
+- content + ui + listing done — e.g. "Take the plunge" → "ရဲရဲကြီး ခုန်ချလိုက်ပါ" (bravely leap/jump in, an idiomatic rendering rather than a literal "plunge"); "The stars are sulking at you today" → "ကြယ်တွေက ဒီနေ့ မင်းကို ငြိုငြင်နေကြပါတယ်" (using "ငြိုငြင်", a natural Burmese word for sulking/pouting, to keep the witch's playful voice); moon phases use the traditional Burmese lunar-calendar terms လကွယ် (new moon) and လပြည့် (full moon) rather than literal astronomy translations, so they read as native rather than translated
+LOCALE COMPLETE

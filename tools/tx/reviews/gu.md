@@ -1,0 +1,2 @@
+- content + ui + listing done — e.g. "Swallow your pride" → "તારું અભિમાન બાજુ પર મૂક" ("put your pride aside", the natural way a Gujarati speaker would phrase it rather than a literal "swallow"); "Take the plunge" → "કૂદકો મારી દે" (the everyday idiom "take the jump"). Used Gujarati's gender-neutral future tense (કરીશ/થઈશ/વાંચીશ etc., which conjugate by person only, not gender) plus invariant "જોઈએ" (should) constructions throughout, so the user's gender is never implied. Kept the informal, warm "તું" address to match the playful witch character.
+LOCALE COMPLETE

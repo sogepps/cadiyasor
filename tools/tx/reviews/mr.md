@@ -1,0 +1,2 @@
+- content + ui + listing done — e.g. "Take the plunge" → "उडी टाकून टाक" (the natural Marathi idiom "just take the jump"); localized "Should I order pizza tonight?" → "आज रात्री वडापाव मागवावा का?" (vada pav, the iconic Maharashtrian street-food takeaway, instead of a literal pizza question). Used Marathi's gender-invariant future tense and "chahije/-should" participle constructions (करावा/घ्यावी/etc., agreeing with the object, not the speaker) throughout to keep the user's gender unspecified, since Marathi past-tense verbs would otherwise mark it.
+LOCALE COMPLETE

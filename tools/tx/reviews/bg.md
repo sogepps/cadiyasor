@@ -1,0 +1,2 @@
+- content + ui + listing done — e.g. "Take the plunge" → "Скочи с главата напред" (dive in headfirst, native idiom); "Good things come to those who wait" → "Търпението е майка на добродетелите" (Bulgarian proverb, "patience is the mother of virtues"); rephrased gendered predicate adjectives (e.g. "you're ready", "you're lucky", "you were born for this") into noun- or verb-based forms ("Готовността ти е извън всяко съмнение", "Този път имаш късмет", "Това е твоето призвание") to keep the witch's lines gender-neutral for the reader.
+LOCALE COMPLETE

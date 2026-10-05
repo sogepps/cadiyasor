@@ -1,0 +1,14 @@
+{
+  "title": "Vprašaj Čarovnico: Napovedi",
+  "short": "Zastavi vprašanje, podrgni kotel in naj ti čarovnica napove usodo!",
+  "full": "Imaš vprašanje? Vprašaj čarovnico! Pomisli na svoje vprašanje, s prstom podrgni njen vreli kotel in poglej, kako se dvigne čarobni zvitek z odgovorom. Knjiga odgovorov, kristalna krogla in vedeževalka čarovnica - vse v tvojem žepu.\n\n🔮 TRIJE NAČINI, KAKO VPRAŠATI\n• Kotel: drgni ga, dokler čar ne prekipi, zvitek pa prinese odgovor.\n• Grimoar: pridrži knjigo, pomisli na vprašanje in spusti. Odpre se na tvoji strani.\n• Kristalna krogla: stresi telefon ali zavrti meglico za hiter da ali ne.\n\n📜 200 ODGOVOROV\nModrih, smešnih, skrivnostnih in včasih malce predrznih. Da, ne, počakaj, ukrepaj zdaj ... vsak odgovor zasije v svoji barvi.\n\n🌙 DANAŠNJE ZNAMENJE\nVsak dan novo znamenje: tvoja srečna številka, srečna barva in srečna ura, poleg tega pa še prava faza nocojšnje lune in njen pomen zate. Vračaj se vsak dan in ohranjaj svoj niz.\n\n✍️ VPRAŠAJ NA GLAS ALI V TIŠINI\nVpiši svoje vprašanje ali pa samo pomisli nanj. Če isto vprašanje zastaviš dvakrat na isti dan, si bo čarovnica zapomnila. Usoda ne spreminja mnenja!\n\n📖 KRONIKA USODE\nVsaka napoved se shrani v tvojo kroniko. Priljubljene označi z zvezdico in se vračaj k temu, kar ti je povedala čarovnica.\n\n💌 DELI SVOJO USODO\nSvoj odgovor pošlji prijateljem kot lepo kartico in jih izzovi, naj tudi oni vprašajo čarovnico.\n\n🐈‍⬛ ŽIVAHEN BRLOG\nMesečna noč, migljajoče zvezde, plazeča megla, črna mačka in čarovnica, ki ima veliko povedati. Dotikaj se okolice, čakajo te presenečenja.\n\n🌍 75 JEZIKOV\nČarovnica govori tvoj jezik. Kadar koli ga lahko spremeniš v nastavitvah.\n\nRegistracija ni potrebna.\n\nSamo za zabavo: čarovnica je modra, a odločitev je vedno tvoja.",
+  "feature": "Vprašaj. Podrgni. Spoznaj usodo.",
+  "shots": [
+    { "title": "VPRAŠAJ ČAROVNICO", "sub": "Tvoja vprašanja, čarobni odgovori" },
+    { "title": "PODRGNI KOTEL", "sub": "Odgovor se dvigne na čarobnem zvitku" },
+    { "title": "KNJIGA ODGOVOROV", "sub": "Pridrži, pomisli, spusti in preberi" },
+    { "title": "KRISTALNA KROGLA", "sub": "Stresi telefon za hiter da ali ne" },
+    { "title": "DANAŠNJE ZNAMENJE", "sub": "Srečna številka, barva, ura in luna" },
+    { "title": "KRONIKA USODE", "sub": "Shrani, označi z zvezdico in deli napovedi" }
+  ]
+}

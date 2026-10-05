@@ -1,0 +1,14 @@
+{
+  "title": "Pergunta à Bruxa: Sim ou Não",
+  "short": "Faz uma pergunta, esfrega o caldeirão e deixa a bruxa revelar o teu destino!",
+  "full": "Tens uma pergunta a rondar-te a cabeça? Pergunta à Bruxa! Pensa na tua pergunta, esfrega o caldeirão borbulhante com o dedo e vê um pergaminho mágico erguer-se com a tua resposta. Um livro de respostas, uma bola de cristal e uma bruxa vidente, tudo no teu bolso.\n\n🔮 TRÊS FORMAS DE PERGUNTAR\n• O Caldeirão: esfrega até a magia transbordar e um pergaminho trazer a tua resposta.\n• O Grimório: segura o livro, pensa na tua pergunta e larga-o. Abre-se mesmo na tua página.\n• A Bola de Cristal: abana o telemóvel ou roda o nevoeiro para um sim ou não num instante.\n\n📜 200 RESPOSTAS\nSábias, engraçadas, misteriosas e às vezes um pouco atrevidas. Sim, não, espera, age já... cada resposta brilha na sua própria cor.\n\n🌙 O PRESSÁGIO DE HOJE\nUm presságio novo todos os dias com o teu número, cor e hora da sorte, além da fase real da lua esta noite e o que significa para ti. Volta todos os dias e mantém a tua sequência.\n\n✍️ PERGUNTA EM VOZ ALTA OU EM SILÊNCIO\nEscreve a tua pergunta ou pensa nela em silêncio. Se fizeres a mesma pergunta duas vezes no mesmo dia, a bruxa vai lembrar-se. O destino não muda de ideias!\n\n📖 DIÁRIO DO DESTINO\nCada leitura fica guardada no teu diário. Marca as tuas favoritas e revê o que a bruxa te disse.\n\n💌 PARTILHA O TEU DESTINO\nEnvia a tua resposta aos amigos como um cartão bonito e desafia-os a perguntar também à bruxa.\n\n🐈‍⬛ UM COVIL CHEIO DE VIDA\nUma noite de luar, estrelas a cintilar, nevoeiro a deslizar, um gato preto e uma bruxa com muito para contar. Toca por aí, há surpresas.\n\n🌍 75 IDIOMAS\nA bruxa fala o teu idioma. Muda quando quiseres nas definições.\n\nNão é preciso registo.\n\nApenas para entretenimento: a bruxa é sábia, mas a decisão é sempre tua.",
+  "feature": "Pergunta. Esfrega. Revela o destino.",
+  "shots": [
+    { "title": "PERGUNTA À BRUXA", "sub": "As tuas perguntas, respondidas com magia" },
+    { "title": "ESFREGA O CALDEIRÃO", "sub": "A tua resposta sobe num pergaminho mágico" },
+    { "title": "LIVRO DAS RESPOSTAS", "sub": "Segura, pensa, larga e lê a tua página" },
+    { "title": "BOLA DE CRISTAL", "sub": "Abana o telemóvel para um sim ou não" },
+    { "title": "O PRESSÁGIO DE HOJE", "sub": "Número e cor da sorte, fase real da lua" },
+    { "title": "DIÁRIO DO DESTINO", "sub": "Guarda, marca e partilha as tuas respostas" }
+  ]
+}
